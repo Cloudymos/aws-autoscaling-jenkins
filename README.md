@@ -1,5 +1,5 @@
 # aws-autoscaling-terraform
-Code for automating the creation of an architecture on AWS with high availability and resiliency using terraform and jenkins pipeline.
+This project provides a comprehensive solution for the automated creation of an architecture on AWS, emphasizing high availability concepts and deployment pipeline. Through the integration of Jenkins and Terraform, this solution streamlines the implementation of a robust and scalable infrastructure.
 
 With this infrastructure you'll use the following technologies:
 
