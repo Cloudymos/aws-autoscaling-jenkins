@@ -1,5 +1,5 @@
 # aws-autoscaling-terraform
-This project provides a comprehensive solution for the automated creation of an architecture on AWS, emphasizing high availability concepts and deployment pipeline. Through the integration of Jenkins and Terraform, this solution streamlines the implementation of a robust and scalable infrastructure.
+This project provides a comprehensive solution for the automated creation of an architecture on AWS, emphasizing high availability concepts and deployment pipeline. Through the integration of Jenkins and Terraform, this solution streamlines the implementation of a robust and scalable infrastructure. **For additional resources, examples, and community engagement**, check out the portal [Cloudymos](https://cloudymos.com) :cloud:.
 
 With this infrastructure you'll use the following technologies:
 
